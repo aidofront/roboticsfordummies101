@@ -36,3 +36,13 @@ public static int maxSideLength() {
     }
 }
 
+//availableitems practice
+public static ArrayList<LibraryItem> availableItems(LibraryItem[] items) {
+    ArrayList<LibraryItem> available = new ArrayList<>();
+    for (LibraryItem item : items) {
+        if (item.isAvailable()) {
+            available.add(item);
+        }
+    }
+    return available;
+}
