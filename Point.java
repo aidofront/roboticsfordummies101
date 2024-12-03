@@ -53,4 +53,9 @@ public double angle (){
     return Math.toDegrees(angleInRadians);
 }
 
-
+//returnAll thing practice
+public static void returnAll(LibraryItem[] items) {
+    for (LibraryItem item : items) {
+        item.returnItem();
+    }
+}
