@@ -1,2 +1,1 @@
-# roboticsfordummies101
-i am learning java https://github.com/SciBorgs/SciGuides/blob/main/projects/intro-to-programming/README.md
+(https://github.com/SciBorgs/SciGuides/blob/main/projects/intro-to-programming/java102)
